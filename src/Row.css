@@ -1,5 +1,6 @@
 .row{
     margin-left: 10px;
+    color: white;
 }
 .row_posters{
     display: flex;
@@ -8,7 +9,7 @@
     overflow-x: scroll;
     overflow-y: hidden;
     padding: 20px;
-    border: 1px solid red;
+    
     
 }
 .row_poster{
