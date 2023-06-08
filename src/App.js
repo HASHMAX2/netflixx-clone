@@ -8,8 +8,8 @@ import Nav from "./Nav";
 function App() {
   return (
     <div className="app">
-      {/* navbar */}
       <Nav />
+
       <Banner></Banner>
       <Row
         isLargeRow={true}
